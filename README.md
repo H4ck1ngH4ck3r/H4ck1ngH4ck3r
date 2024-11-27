@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @H4ck1ngH4ck3r
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on unblocked gaming websites
-- 😄 Pronouns: He/him
+# games
+idk
